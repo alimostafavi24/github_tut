@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "ex6",
+      "setup": "sudo -H pip3 install pytest numpy matplotlib",
+      "run": "python -m pytest code/test_ex6.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "ex7",
+      "setup": "sudo -H pip3 install pytest numpy matplotlib",
+      "run": "python -m pytest code/test_ex7.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "ex8",
+      "setup": "sudo -H pip3 install pytest numpy matplotlib",
+      "run": "python -m pytest code/test_ex8.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "ex9",
+      "setup": "sudo -H pip3 install pytest numpy matplotlib",
+      "run": "python -m pytest code/test_ex9.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
